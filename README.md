@@ -1,3 +1,6 @@
+#Warning: This is only a fork. Please read below to find the official source and binaries. 
+
+
 # GitHub Android App
 
 This repository contains the source code for the GitHub Android app.
